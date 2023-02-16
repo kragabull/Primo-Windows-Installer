@@ -1,2 +1,2 @@
 # Primo-Windows-Installer
-Development of an installer for Primo software for windows
+Development of an installer for Primo software for windows using Inno Setup
